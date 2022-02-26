@@ -2,7 +2,4 @@
 .husky
 coverage
 __snapshots__
-storybook-static
-public/sw.js
-public/workbox-*.js
 *.yml
