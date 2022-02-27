@@ -10,6 +10,8 @@
     "pretty": "prettier --config ./.prettierrc --write \"./**/*.{ts,js,tsx,json,css,css,html}\""
   },
   "dependencies": {
+    "@stripe/stripe-js": "^1.23.0",
+    "axios": "^0.26.0",
     "faunadb": "^4.5.2",
     "next": "12.1.0",
     "next-auth": "^4.2.1",
